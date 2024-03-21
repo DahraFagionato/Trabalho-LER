@@ -5,11 +5,11 @@
 <img src="https://th.bing.com/th/id/R.1c85b6dd9b1a8388a18f15fc631b690e?rik=8zY7AjPmvTQOSQ&pid=ImgRaw&r=0" style ="width:300px">
 
 ### Grupo 
-Dahra Fagionato 
-Emily Goulart 
-Lucas Colombo 
-Maria Eduarda Berto
-Nicole Santos 
+- Dahra Fagionato 
+- Emily Goulart 
+- Lucas Colombo 
+- Maria Eduarda Berto
+- Nicole Santos 
 </center>
 
 #### *Definição*----------------------------------------------------------------------------------------
