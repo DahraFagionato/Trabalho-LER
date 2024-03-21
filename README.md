@@ -123,16 +123,16 @@ A aplicação da metodologia Kanban na gestão de projetos pode trazer diversos 
 #### *Onde é recomendado usar o Kanban?* --------------------
 O Kanban é uma metodologia versátil que pode ser aplicada em diversos contextos e setores. Sua abordagem visual e com foco no fluxo de trabalho, o tornam uma ferramenta eficaz para melhorar a gestão e a eficiência em diversas áreas, como:
 
-1.Gestão de projetos;
-2.Gestão de TI;
-3.Desenvolvimento de software;
-4.Gerenciamento de fluxo de produção;
-5.Finanças;
-6.Logística e cadeia de suprimentos;
-7.Design;
-8.Marketing; Atendimento ao cliente;
-9.Gestão das atividades pessoais;
-10.Gestão de fluxo de trabalho em escritórios.
+1. Gestão de projetos;
+2. Gestão de TI;
+3. Desenvolvimento de software;
+4. Gerenciamento de fluxo de produção;
+5. Finanças;
+6. Logística e cadeia de suprimentos;
+7. Design;
+8. Marketing; Atendimento ao cliente;
+9. Gestão das atividades pessoais;
+10. Gestão de fluxo de trabalho em escritórios.
 
 De forma geral, é recomendado utilizar esse sistema em qualquer contexto que envolva a gestão de tarefas, controle de fluxo de trabalho e melhoria da eficiência operacional, por ser um sistema visual e flexível.
 
