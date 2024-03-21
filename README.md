@@ -26,7 +26,7 @@ Existem dois tipos principais de Kanban, o Kanban de Produção e o Kanban de Mo
 
 A utilização tanto do Kanban de Produção quanto do Kanban de Movimentação, facilita a sincronização do gerenciamento de estoque e da produção, permitindo operações mais eficientes, melhor controle dos fluxos de trabalho e resposta ágil às demandas do mercado.
 
-#### *Como aplicar o Kanban?*
+#### *Como aplicar o Kanban?* --------------------
 A metodologia tem 3 elementos fundamentais para ser aplicada em qualquer empresa. Confira:
 
 - Cartão: é o local em que as tarefas são descritas. Nele, detalha-se todo o projeto e ação que precisa ser tomada. Também está aqui o nome dos responsáveis. Os cartões de tarefa podem haver um esquema de cores, definido de acordo com o projeto que ele está relacionado.
