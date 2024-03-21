@@ -24,7 +24,16 @@ Existem dois tipos principais de Kanban, o Kanban de Produção e o Kanban de Mo
 ##### *Kanban Movimentação*
 - O Kanban de movimentação, também conhecido como Kanban de transporte, é utilizado para controlar o fluxo de materiais, componentes ou produtos, entre diferentes locais ou departamentos. Ele é particularmente útil em empresas com múltiplos armazéns, linhas de produção ou pontos de distribuição. Nesse caso, os cartões Kanban são usados ​​para rastrear o movimento físico dos itens para garantir que haja material suficiente disponível em qualquer ponto do processo. Esse sistema visa evitar gargalos de material em áreas específicas, além de otimizar e reduzir atrasos na produção.
 
-A utilização tanto do Kanban de produção quanto do Kanban de movimentação, facilita a sincronização do gerenciamento de estoque e da produção, permitindo operações mais eficientes, melhor controle dos fluxos de trabalho e resposta ágil às demandas do mercado.
+A utilização tanto do Kanban de Produção quanto do Kanban de Movimentação, facilita a sincronização do gerenciamento de estoque e da produção, permitindo operações mais eficientes, melhor controle dos fluxos de trabalho e resposta ágil às demandas do mercado.
+
+#### *Como aplicar o Kanban?*
+A metodologia tem 3 elementos fundamentais para ser aplicada em qualquer empresa. Confira:
+
+- Cartão: é o local em que as tarefas são descritas. Nele, detalha-se todo o projeto e ação que precisa ser tomada. Também está aqui o nome dos responsáveis. Os cartões de tarefa podem haver um esquema de cores, definido de acordo com o projeto que ele está relacionado.
+
+- Coluna: é o que define o status de cada tarefa. No Kanban mais básico, as colunas são “a fazer”, “em execução” e “feito”. Imagine um cartão sobre “produzir um texto”. Quando o briefing for feito, ele estará em “a fazer”. Quando o redator começar a produzir, o cartão passa para “em execução” e, finalizado, ele passa para "feito''. Cada empresa pode adaptar esse processo, incluindo, por exemplo, uma coluna para “revisão”.
+
+- Quadro: nada mais é do que o local em que as tarefas e as colunas se encontram. Um quadro, geralmente, organiza as atividades de todos da equipe e as pessoas dela, podem fazer parte de mais do que um quadro.
 
 #### *Papéis e responsabilidades fundamentais* --------------------
 Existem alguns papéis e responsabilidades fundamentais que ajudam a garantir o bom funcionamento do sistema. Os principais são:
@@ -62,10 +71,10 @@ Um quadro base, também conhecido como framework ou estrutura básica, é uma or
 3. *Mapeamento do Fluxo de Trabalho:*
    - O mapeamento do fluxo de trabalho envolve a criação de um diagrama ou esquema que mostra como as diferentes tarefas se relacionam e fluem ao longo do tempo.
    - Você identifica os pontos de entrada e saída de cada etapa do processo, as dependências entre as tarefas (quando uma tarefa depende da conclusão de outra), e as decisões que precisam ser tomadas em cada fase.
-   - Ferramentas como diagramas de Gantt, diagramas de fluxo, ou software de gerenciamento de projetos são úteis para visualizar e acompanhar o fluxo de trabalho.
-
+   - O mapeamento ajuda a facilitar a gestão e a otimização do processo.
+  
 #### *Gerenciamento do progresso e desempenho* --------------------
-Para gerenciar efetivamente o gerenciamento do progresso e desempenho com o Kanban é necessário:
+Para administrar efetivamente o gerenciamento do progresso e desempenho com o Kanban é necessário:
 
 ##### *Visualização do Fluxo de Trabalho:*
    - Utilize um quadro Kanban físico ou digital para visualizar todas as etapas do seu processo de trabalho, desde as tarefas em espera até aquelas concluídas.
@@ -134,4 +143,5 @@ A metodologia Kanban é uma abordagem eficaz para o gerenciamento de projetos e 
 https://www.alura.com.br/artigos/metodo-kanban
 https://www.atlassian.com/br/agile/kanban
 https://blog.egestor.com.br/kanban/
+https://enotas.com.br/blog/kanban/
 https://openai.com/chatgpt
