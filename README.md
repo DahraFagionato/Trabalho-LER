@@ -3,8 +3,9 @@
 <h1>LER - Metodologia Kanban</h1>
 
 <img src="https://th.bing.com/th/id/R.1c85b6dd9b1a8388a18f15fc631b690e?rik=8zY7AjPmvTQOSQ&pid=ImgRaw&r=0" style ="width:300px">
-
-### Grupo 
+</center>
+<center>
+   ### Grupo 
 - Dahra Fagionato 
 - Emily Goulart 
 - Lucas Colombo 
@@ -12,10 +13,10 @@
 - Nicole Santos 
 </center>
 
-#### *Definição*----------------------------------------------------------------------------------------
+#### *Definição* --------------------
 O Kanban é uma metodologia de gerenciamento visual que ajuda as equipes a visualizarem e gerenciarem seu trabalho de forma eficiente. Originou-se na Toyota como parte do Sistema Toyota de Produção e foi adaptado para uso em diversas áreas, incluindo desenvolvimento de software, gerenciamento de projetos e operações empresariais. O Kanban utiliza cartões (ou post-its) para representar unidades de trabalho e colunas para indicar o progresso dessas unidades, proporcionando transparência, foco na entrega contínua e otimização do fluxo de trabalho.
 
-#### *Tipos de Kanban*-------------------------------------------------------------------------------
+#### *Tipos de Kanban* --------------------
 Existem dois tipos principais de Kanban, o Kanban de Produção e o Kanban de Movimentação.
 
 ##### *Kanban Produção*
@@ -26,7 +27,7 @@ Existem dois tipos principais de Kanban, o Kanban de Produção e o Kanban de Mo
 
 A utilização tanto do Kanban de produção quanto do Kanban de movimentação, facilita a sincronização do gerenciamento de estoque e da produção, permitindo operações mais eficientes, melhor controle dos fluxos de trabalho e resposta ágil às demandas do mercado.
 
-#### *Papéis e responsabilidades fundamentais*-------------------------------------------------
+#### *Papéis e responsabilidades fundamentais* --------------------
 Existem alguns papéis e responsabilidades fundamentais que ajudam a garantir o bom funcionamento do sistema. Os principais são:
 
 ##### *Proprietário do Produto (Product Owner)*
@@ -46,7 +47,7 @@ Existem alguns papéis e responsabilidades fundamentais que ajudam a garantir o 
 
 Cada papel tem responsabilidades específicas, mas todos trabalham em conjunto para garantir que o sistema Kanban seja eficiente, focado nas necessidades do cliente e capaz de entregar valor de forma contínua.
 
-#### *Criação do Quadro Base* ---------------------------------------------------------------------
+#### *Criação do Quadro Base* --------------------
 Um quadro base, também conhecido como framework ou estrutura básica, é uma organização inicial que define os elementos fundamentais para o gerenciamento de um projeto ou trabalho. 
 
 ##### *Especificações dentro do contexto de um quadro base:*
@@ -64,8 +65,7 @@ Um quadro base, também conhecido como framework ou estrutura básica, é uma or
    - Você identifica os pontos de entrada e saída de cada etapa do processo, as dependências entre as tarefas (quando uma tarefa depende da conclusão de outra), e as decisões que precisam ser tomadas em cada fase.
    - Ferramentas como diagramas de Gantt, diagramas de fluxo, ou software de gerenciamento de projetos são úteis para visualizar e acompanhar o fluxo de trabalho.
 
-#### *Gerenciamento do progresso e desempenho*----------------------------------------------
-
+#### *Gerenciamento do progresso e desempenho* --------------------
 Para gerenciar efetivamente o gerenciamento do progresso e desempenho com o Kanban é necessário:
 
 ##### *Visualização do Fluxo de Trabalho:*
@@ -88,7 +88,7 @@ Para gerenciar efetivamente o gerenciamento do progresso e desempenho com o Kanb
    - Defina KPIs relevantes para o seu projeto ou equipe, como a taxa de entrega, a qualidade do trabalho realizado, a satisfação do cliente, entre outros.
    - Acompanhe esses KPIs ao longo do tempo para avaliar o desempenho geral e orientar decisões estratégicas.
 
-#### *Aplicação a gestão de projetos* -------------------------------------------
+#### *Aplicação a gestão de projetos* --------------------
 
 A aplicação da metodologia Kanban na gestão de projetos pode trazer diversos benefícios, pois ela oferece uma abordagem visual e flexível para o gerenciamento do trabalho.
 
@@ -112,7 +112,7 @@ A aplicação da metodologia Kanban na gestão de projetos pode trazer diversos 
 6. *Feedback Contínuo e Ajustes*
 - Realize reuniões regulares de revisão do quadro Kanban para obter feedback da equipe, identificar problemas e ajustar o processo conforme necessário para melhorar a eficiência e a qualidade do trabalho.
 
-#### *Onde é recomendado usar o Kanban?*
+#### *Onde é recomendado usar o Kanban?* --------------------
 O Kanban é uma metodologia versátil que pode ser aplicada em diversos contextos e setores. Sua abordagem visual e com foco no fluxo de trabalho, o tornam uma ferramenta eficaz para melhorar a gestão e a eficiência em diversas áreas, como:
 
 1.Gestão de projetos;
@@ -128,10 +128,10 @@ O Kanban é uma metodologia versátil que pode ser aplicada em diversos contexto
 
 De forma geral, é recomendado utilizar esse sistema em qualquer contexto que envolva a gestão de tarefas, controle de fluxo de trabalho e melhoria da eficiência operacional, por ser um sistema visual e flexível.
 
-#### Conclusão -------------------------------------------------------------------
+#### Conclusão --------------------
 A metodologia Kanban é uma abordagem eficaz para o gerenciamento de projetos e processos, enfatizando a visualização do trabalho, a limitação do trabalho em progresso e a melhoria contínua. Ao usar um quadro Kanban para organizar tarefas em colunas representando diferentes estágios do fluxo de trabalho, as equipes podem otimizar o fluxo de trabalho, identificar gargalos e tomar decisões baseadas em dados para melhorar a eficiência e a qualidade do trabalho realizado. Essa metodologia promove a transparência, colaboração e foco na entrega de valor ao cliente, tornando-a uma ferramenta valiosa para diversos contextos de negócios.
 
-##### Link das fontes utilizadas no trabalho
+##### Link das fontes utilizadas no trabalho --------------------
 https://www.alura.com.br/artigos/metodo-kanban
 https://www.atlassian.com/br/agile/kanban
 https://blog.egestor.com.br/kanban/
