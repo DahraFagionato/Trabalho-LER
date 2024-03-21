@@ -13,7 +13,7 @@
 </center>
 
 #### *Definição* --------------------
-O Kanban é uma metodologia de gerenciamento visual que ajuda as equipes a visualizarem e gerenciarem seu trabalho de forma eficiente. Originou-se na Toyota como parte do Sistema Toyota de Produção e foi adaptado para uso em diversas áreas, incluindo desenvolvimento de software, gerenciamento de projetos e operações empresariais. O Kanban utiliza cartões (ou post-its) para representar unidades de trabalho e colunas para indicar o progresso dessas unidades, proporcionando transparência, foco na entrega contínua e otimização do fluxo de trabalho.
+O Kanban é uma metodologia de gerenciamento visual que ajuda as equipes a visualizarem e gerenciarem seu trabalho de forma eficiente. Originou-se na Toyota como parte do Sistema Toyota de Produção e foi adaptado para uso em diversas áreas, incluindo desenvolvimento de software, gerenciamento de projetos e operações empresariais.
 
 #### *Tipos de Kanban* --------------------
 Existem dois tipos principais de Kanban, o Kanban de Produção e o Kanban de Movimentação.
