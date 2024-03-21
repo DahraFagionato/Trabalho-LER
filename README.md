@@ -140,8 +140,8 @@ De forma geral, é recomendado utilizar esse sistema em qualquer contexto que en
 A metodologia Kanban é uma abordagem eficaz para o gerenciamento de projetos e processos, enfatizando a visualização do trabalho, a limitação do trabalho em progresso e a melhoria contínua. Ao usar um quadro Kanban para organizar tarefas em colunas representando diferentes estágios do fluxo de trabalho, as equipes podem otimizar o fluxo de trabalho, identificar gargalos e tomar decisões baseadas em dados para melhorar a eficiência e a qualidade do trabalho realizado. Essa metodologia promove a transparência, colaboração e foco na entrega de valor ao cliente, tornando-a uma ferramenta valiosa para diversos contextos de negócios.
 
 ##### Link das fontes utilizadas no trabalho --------------------
-https://www.alura.com.br/artigos/metodo-kanban
-https://www.atlassian.com/br/agile/kanban
-https://blog.egestor.com.br/kanban/
-https://enotas.com.br/blog/kanban/
-https://openai.com/chatgpt
+- https://www.alura.com.br/artigos/metodo-kanban
+- https://www.atlassian.com/br/agile/kanban
+- https://blog.egestor.com.br/kanban/
+- https://enotas.com.br/blog/kanban/
+- https://openai.com/chatgpt
