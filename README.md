@@ -1,7 +1,7 @@
 <font face="comic sans">
 <h1>LER - Metodologia Kanban</h1>
 
-<img src="https://th.bing.com/th/id/R.1c85b6dd9b1a8388a18f15fc631b690e?rik=8zY7AjPmvTQOSQ&pid=ImgRaw&r=0" style ="width:300px">
+<img src="https://th.bing.com/th/id/R.1c85b6dd9b1a8388a18f15fc631b690e?rik=8zY7AjPmvTQOSQ&pid=ImgRaw&r=0" style ="width:400px">
 
 ### Integrantes do grupo 
 - Dahra Fagionato 
